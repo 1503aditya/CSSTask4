@@ -1,0 +1,94 @@
+body{
+    margin: 0px;
+}
+.head{
+    background-color:aqua;
+    height: 120px;    
+}
+.logo{
+    display: inline-block;
+    height: 80px;
+    width: 80px;
+    margin-left: 100px;
+    padding-top: 20px;
+}
+.texts{
+    margin-left: 900px;
+    margin-top: -50px;
+}
+span{
+    font-family: cursive;   
+    font-size: 30px;
+    padding-left: 20px;
+    padding-bottom: 50px;
+}
+span:hover{
+    color:white;
+}
+#testimonials{
+    
+    text-align: center;
+    background-color: #379683;
+    color: #fff;
+    height: 300px;
+  }
+  .carousel-item{
+    padding: 7% 15%;
+  }
+  .pic1{
+    position: absolute;
+    margin-top: 20px;
+    width: 400px;
+    height: 500px;
+    margin-left: 200px;;
+  }
+  .pic2{
+    position: absolute;
+    left: 100px;
+    top: 500px;
+    height:400px ;
+    width: 350px ; 
+  }
+  .mainContent1{
+    display: inline-block;
+    background-color: whitesmoke;
+  }
+  .mainContent2{
+    display: inline-block;
+    height: 300px;
+    width: 890px;
+    margin-left: 610px;
+    margin-top: 20px;
+    background-color: #5CDB95;
+    
+  }
+.mainContent3{
+    height: 190px;
+    width: 890px;
+    margin-left: 610px;
+    margin-top: 10px;
+    background-color: #8EE4AF;
+}
+.footer{
+    background-color: #a8cb74;
+    margin-top: 10px;
+    height: 100px;
+}
+.footTexts{
+    font-family: sans-serif;
+    margin-left: 600px;
+    
+}
+.footText{
+    font-size: 15px; 
+}
+.dropdown{
+    margin-left: 200px;
+    margin-top: 200px;
+}
+.submit{
+    margin-left: 200px;
+    margin-top: 20px;
+}
+
+
